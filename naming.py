@@ -7,6 +7,6 @@ students_hometown = "Berlin"
 
 print("Prenumele studentului: ", students_firstname)
 print("Numele studentului: ", students_lastname)
-print("Varsta studentului: ", student_age)
+print("Varsta studentului: ", students_age)
 print("Tara de provenienta: ", students_country_origin)
 print("Orasul de bastina: ", students_hometown)
